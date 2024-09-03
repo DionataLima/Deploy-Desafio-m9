@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# Desafio Individual | Front-end - Módulo 9
+# Desafio | Front-end - Módulo 9
 
 - Este repositório deverá servir de base para ser realizado o fork para desenvolvimento do desafio. O desafio deve ser feito utilizando o [`vite`](https://vitejs.dev/) como templete para o [`react`](https://react.dev/) podendo ser feito com arquivos em `Javascript` ou `Typescript` ou com [`Next`](https://nextjs.org/), ficando a sua escolha.
 
